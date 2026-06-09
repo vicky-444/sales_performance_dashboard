@@ -4,6 +4,6 @@ Power BI Sales Dashboard Project
 PowerBI 
 Power Query
 # Features
-Sales Analysis
-profits and loss
+Sales Analysis-
+profits and loss-
 KPI Dashboard
