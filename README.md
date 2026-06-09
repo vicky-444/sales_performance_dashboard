@@ -1,7 +1,7 @@
 # sales_performance_dashboard
-Power BI Sales Dashboard Project
+Power BI-Sales Dashboard Project
 # Tools used
-PowerBI 
+PowerBI -
 Power Query
 # Features
 Sales Analysis-
